@@ -1,0 +1,18 @@
+{
+  "name": "craftwave-skill-9-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "家庭邮轮假期 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "craftwave-skill-9",
+      "source": "./plugins/craftwave-skill-9",
+      "description": "为家庭旅客设计的邮轮产品，支持按目的地和活动筛选，确保每位家庭成员都能享受旅程。",
+      "version": "0.1.0"
+    }
+  ]
+}
